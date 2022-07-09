@@ -1,4 +1,4 @@
 # Control
  
-login : sa
-pass: 123
+login : sa ;
+pass: 123 ;
