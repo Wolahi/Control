@@ -1,0 +1,14 @@
+C:\Users\ipere\OneDrive\Рабочий стол\С#\Control\Control\bin\Debug\Control.exe.config
+C:\Users\ipere\OneDrive\Рабочий стол\С#\Control\Control\bin\Debug\Control.exe
+C:\Users\ipere\OneDrive\Рабочий стол\С#\Control\Control\bin\Debug\Control.pdb
+C:\Users\ipere\OneDrive\Рабочий стол\С#\Control\Control\bin\Debug\System.Data.SqlClient.dll
+C:\Users\ipere\OneDrive\Рабочий стол\С#\Control\Control\bin\Debug\System.Data.SqlClient.xml
+C:\Users\ipere\OneDrive\Рабочий стол\С#\Control\Control\obj\Debug\Control.csproj.AssemblyReference.cache
+C:\Users\ipere\OneDrive\Рабочий стол\С#\Control\Control\obj\Debug\Control.csproj.SuggestedBindingRedirects.cache
+C:\Users\ipere\OneDrive\Рабочий стол\С#\Control\Control\obj\Debug\Control.Form1.resources
+C:\Users\ipere\OneDrive\Рабочий стол\С#\Control\Control\obj\Debug\Control.Properties.Resources.resources
+C:\Users\ipere\OneDrive\Рабочий стол\С#\Control\Control\obj\Debug\Control.csproj.GenerateResource.cache
+C:\Users\ipere\OneDrive\Рабочий стол\С#\Control\Control\obj\Debug\Control.csproj.CoreCompileInputs.cache
+C:\Users\ipere\OneDrive\Рабочий стол\С#\Control\Control\obj\Debug\Control.csproj.CopyComplete
+C:\Users\ipere\OneDrive\Рабочий стол\С#\Control\Control\obj\Debug\Control.exe
+C:\Users\ipere\OneDrive\Рабочий стол\С#\Control\Control\obj\Debug\Control.pdb
